@@ -1,0 +1,20 @@
+{
+  "name": "electronstore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoren2/electron.git"
+  },
+  "keywords": [],
+  "author": "Jack Tsang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zoren2/electron/issues"
+  },
+  "homepage": "https://github.com/zoren2/electron#readme"
+}
