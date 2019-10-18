@@ -1,8 +1,8 @@
 {
   "name": "electronstore",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Project using Electron Framework",
+  "main": "js/index.js",
   "scripts": {
     "start": "electron ."
   },
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/zoren2/electron/issues"
   },
-  "homepage": "https://github.com/zoren2/electron#readme"
+  "homepage": "https://github.com/zoren2/electron#readme",
+  "devDependencies": {
+    "electron": "^4.2.12"
+  }
 }
